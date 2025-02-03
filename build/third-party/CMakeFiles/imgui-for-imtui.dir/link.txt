@@ -1,2 +1,0 @@
-/usr/bin/arm-linux-gnueabihf-ar qc libimgui-for-imtui.a "CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui.cpp.o" "CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui_draw.cpp.o" "CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui_demo.cpp.o" "CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui_widgets.cpp.o" "CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui_tables.cpp.o"
-/usr/bin/arm-linux-gnueabihf-ranlib libimgui-for-imtui.a
