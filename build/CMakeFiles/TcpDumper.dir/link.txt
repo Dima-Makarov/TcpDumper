@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++  -Wall -Wextra -pedantic -g CMakeFiles/TcpDumper.dir/main.cpp.o "CMakeFiles/TcpDumper.dir/src/imtui-impl-ncurses.cpp.o" "CMakeFiles/TcpDumper.dir/src/imtui-impl-text.cpp.o" -o bin/TcpDumper  third-party/libimgui-for-imtui.a -lcurses /usr/lib/arm-linux-gnueabihf/libform.so /usr/lib/arm-linux-gnueabihf/libts.so 

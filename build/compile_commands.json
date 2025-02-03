@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/root/TcpDumper/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/root/TcpDumper/include -I/root/TcpDumper/third-party/imgui  -Wall -Wextra -pedantic -g -o CMakeFiles/TcpDumper.dir/main.cpp.o -c /root/TcpDumper/main.cpp",
+  "file": "/root/TcpDumper/main.cpp"
+},
+{
+  "directory": "/root/TcpDumper/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/root/TcpDumper/include -I/root/TcpDumper/third-party/imgui  -Wall -Wextra -pedantic -g -o CMakeFiles/TcpDumper.dir/src/imtui-impl-ncurses.cpp.o -c /root/TcpDumper/src/imtui-impl-ncurses.cpp",
+  "file": "/root/TcpDumper/src/imtui-impl-ncurses.cpp"
+},
+{
+  "directory": "/root/TcpDumper/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/root/TcpDumper/include -I/root/TcpDumper/third-party/imgui  -Wall -Wextra -pedantic -g -o CMakeFiles/TcpDumper.dir/src/imtui-impl-text.cpp.o -c /root/TcpDumper/src/imtui-impl-text.cpp",
+  "file": "/root/TcpDumper/src/imtui-impl-text.cpp"
+},
+{
+  "directory": "/root/TcpDumper/build/third-party",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/root/TcpDumper/third-party/imgui/imgui -g -fPIC -o CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui.cpp.o -c /root/TcpDumper/third-party/imgui/imgui/imgui.cpp",
+  "file": "/root/TcpDumper/third-party/imgui/imgui/imgui.cpp"
+},
+{
+  "directory": "/root/TcpDumper/build/third-party",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/root/TcpDumper/third-party/imgui/imgui -g -fPIC -o CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui_draw.cpp.o -c /root/TcpDumper/third-party/imgui/imgui/imgui_draw.cpp",
+  "file": "/root/TcpDumper/third-party/imgui/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/root/TcpDumper/build/third-party",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/root/TcpDumper/third-party/imgui/imgui -g -fPIC -o CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui_demo.cpp.o -c /root/TcpDumper/third-party/imgui/imgui/imgui_demo.cpp",
+  "file": "/root/TcpDumper/third-party/imgui/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/root/TcpDumper/build/third-party",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/root/TcpDumper/third-party/imgui/imgui -g -fPIC -o CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui_widgets.cpp.o -c /root/TcpDumper/third-party/imgui/imgui/imgui_widgets.cpp",
+  "file": "/root/TcpDumper/third-party/imgui/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/root/TcpDumper/build/third-party",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/root/TcpDumper/third-party/imgui/imgui -g -fPIC -o CMakeFiles/imgui-for-imtui.dir/imgui/imgui/imgui_tables.cpp.o -c /root/TcpDumper/third-party/imgui/imgui/imgui_tables.cpp",
+  "file": "/root/TcpDumper/third-party/imgui/imgui/imgui_tables.cpp"
+}
+]
